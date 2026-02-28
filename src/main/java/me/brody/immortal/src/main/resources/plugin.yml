@@ -1,0 +1,7 @@
+name: ImmortalHalfHeartTotem
+version: 1.1
+main: me.brody.immortal.ImmortalPlugin
+api-version: 1.21
+commands:
+  immortal:
+    description: Immortality with half-heart minimum and totem support
